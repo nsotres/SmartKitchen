@@ -1,0 +1,396 @@
+{
+ "recipe": {
+ "breakfast":[
+{
+
+ "lowcal": [
+ {
+ "name": "farmer's breakfast",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "8  smallpotatoes, sliced 1/4-inch thick \n2  tablespoonscooking oil \n2  tablespoonsbutter or margarine \n4  ouncesfresh mushrooms, sliced \n1  cupchopped salami or cooked ham \n1  smallgreen sweet pepper, chopped \n1/2  cupchopped onion \n10  eggs, lightly beaten or 2-1/2 cups refrigerated egg productse1/4  cupmilk \n2  tablespoonssnipped parsley 1/4  teaspoonsalt 1/8  teaspoonground black pepper \n1  cupshredded cheddar cheese (4 ounces)",
+ "steps":"1. Cook potatoes in boiling water about 10 minutes or until just tender. Drain well. \n2. In a 12-inch skillet, cook the potatoes in hot oil over medium-high heat for 5 to 8 minutes or until browned, turning occasionally. \n3. Add the butter or margarine to the skillet. Add the mushrooms, salami or ham, green pepper, and onion. Cook and stir for 5 to 8 minutes or until the vegetables are just tender. \n4. Combine the eggs with the milk and parsley. Season with salt and black pepper. Add to skillet. Reduce heat to medium. Cook, stirring occasionally, until eggs are just set but still moist.  \n5. Sprinkle with cheese. Cover and cook, without stirring, for 3 minutes more or until eggs are set in the center. Serve hot with toasted bagels or English muffins, if you like. Makes 8 to 10 servings."
+ }
+ ]
+ },
+ {
+ "name": "italian breakfast burrito",
+ "nutrition": "0.1",
+ "location":"image/2.jpg",
+ "Destination": [
+ {
+ "materials": "2  Tbsp.extra-virgin olive oil \n2  cupsfresh baby spinach, chopped \n3  oz.prosciutto, chopped \n1/2  cupfresh basil, snipped \n1 6-oz. jarmarinated artichoke hearts, drained \n3  shallots, finely chopped \n2  clovesgarlic, minced \n8  eggs \n6  10-inch flour tortillas \n1/2  cuppurchased basil pesto \n1-1/2  cupsshredded mozzarella cheese \n(6 oz.) 1  15-oz. containerrefrigerated marinara sauce, heated",
+ "steps":"1. In a large skillet heat olive oil over medium heat. Add spinach, prosciutto, basil, artichoke hearts, shallots, and garlic. Cook and stir until spinach is wilted. \n2. In a bowl whisk together eggs, dash salt, and dash ground black pepper. Pour over vegetables in skillet. Cook over medium heat, without stirring, until mixture begins to set on bottom and around edge. With spatula or large spoon, lift and fold partially cooked egg mixture so uncooked portion flows underneath. Continue cooking 2 to 3 minutes or until egg mixture is cooked through and still glossy and moist. Remove from heat. Wrap tortillas in white paper towels; heat in microwave oven on 100 percent power (high) for 30 to 60 seconds or just until warmed. Spread each tortilla with pesto to within 1 inch of edge. Sprinkle cheese over pesto. Evenly divide egg mixture among tortillas; roll up, tucking in ends. Serve with warm marinara sauce."
+ }
+ ]
+ },
+ {
+ "name": " ",
+ "nutrition": " ",
+ "Destination": [
+ {
+ "materials": " ",
+ "steps":" "
+ }
+ ]
+ }
+ ],
+ 
+ "highpro":[
+ {
+ "name": "breakfast casserole",
+ "nutrition": "0.1",
+ "location":"image/3.jpg",
+ "Destination": [
+ {
+ "materials": "1  poundSmithfield Smoked Sausage, diced \n5 piecesthick-sliced white bread, with crust, buttered and cubed \n4  eggs \n2  cupsmilk \n1  teaspoondry mustard 1  teaspoonsalt \n1  teaspoonhot sauce \n3  cupsgrated extra-sharp cheddar cheese",
+ "steps":"1. Spray a 1 1/2 quart casserole dish with vegetable oil cooking spray. Place the bread cubes in the dish. Evenly distribute the sausage over the bread cubes.\n2. Combine the eggs and half the milk in a separate bowl and whisk together. Add remaining milk, mustard, salt, and hot sauce and mix well. Pour the egg mixture over the bread. Cover with plastic wrap and refrigerate overnight.\n3. The next morning, remove the casserole from the refrigerator and allow it to sit on the counter for 15 minutes while you preheat the oven to 350 degrees F. Remove the plastic wrap. Sprinkle cheese evenly on top of the casserole. Place it in the oven and bake uncovered for 1 hour."
+ }
+ ]
+ },
+  {
+ "name": "breakfast4",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "4",
+ "steps":"4"
+ }
+ ]
+ },
+  {
+ "name": " ",
+ "nutrition": " ",
+ "Destination": [
+ {
+ "materials": " ",
+ "steps":" "
+ }
+ ]
+ }
+ ],
+ 
+ "notspicy":[
+ {
+ "name": "breakfast5",
+ "location":"image/1.jpg",
+ "nutrition": "0.1",
+ "Destination": [
+ {
+ "materials": "5",
+ "steps":"5"
+ }
+ ]
+ },
+  {
+ "name": "breakfast6",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "6",
+ "steps":"6"
+ }
+ 
+ ]
+ },
+   {
+ "name": " ",
+ "nutrition": " ",
+ "Destination": [
+ {
+ "materials": " ",
+ "steps":" "
+ }
+ 
+ ]
+ }
+ ],
+ "vegetarian":[
+ {
+ "name": "breakfast7",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "7",
+ "steps":"7"
+ }
+ ]
+ },
+  {
+ "name": "breakfast8",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "8",
+ "steps":"8"
+ }
+ ]
+ },
+  {
+ "name": " ",
+ "nutrition": " ",
+ "Destination": [
+ {
+ "materials": " ",
+ "steps":" "
+ }
+ ]
+ }
+ ]
+
+ }
+ ],
+ 
+ "ld":[
+{
+
+ "lowcal": [
+ {
+ "name": "id1",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "1",
+ "steps":"1"
+ }
+ ]
+ },
+ {
+ "name": "id2",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "2",
+ "steps":"2"
+ }
+ ]
+ }
+ 
+ ],
+ 
+ "highpro":[
+ {
+ "name": "id3",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "3",
+ "steps":"3"
+ }
+ ]
+ },
+  {
+ "name": "id4",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "4",
+ "steps":"4"
+ }
+ ]
+ }
+ ],
+ 
+ "lowsugar":[
+ {
+ "name": "id5",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "5",
+ "steps":"5"
+ }
+ ]
+ },
+  {
+ "name": "id6",
+ "nutrition": "0.1",
+ "location":"image/1.jpg",
+ "Destination": [
+ {
+ "materials": "6",
+ "steps":"6"
+ }
+ ]
+ }
+ ],
+ "vegetarian":[
+ {
+ "name": "garlic-roasted asparagus",
+ "nutrition": "0.1",
+ "location":"image/l7.jpg",
+ "Destination": [
+ {
+ "materials": "1 1/2  poundsfresh asparagus spears\n2 - 3   cloves garlic, thinly sliced\n2 - 3   tablespoonsolive oilsee savings\n1/4  teaspoonsalt\n1/4  teaspoonground black pepper",
+ "steps":"1. Preheat oven to 450 degrees F. \nSnap off and discard woody bases from asparagus. \nPlace asparagus and garlic in a 15x10x1-inch baking pan. \nDrizzle with oil and sprinkle with salt and pepper. \nToss to coat.\n2. Roast for 10 to 15 minutes \nor until asparagus is crisp-tender, \nstirring once halfway through roasting. \nServe immediately. Makes 6 servings."
+ }
+ ]
+ },
+  {
+ "name": "sweet potatoes with toasted pecans",
+ "nutrition": "0.1",
+ "location":"image/l8.jpg",
+ "Destination": [
+ {
+ "materials": "4 1/2  poundssweet potatoes\n2  tablespoonsolive oil\n1  tablespoonkosher salt\n1/2  cupbuttersee savings\n2/3  cupwhipping cream\n2  tablespoonspure maple syrupsee savings\n1/4  teaspoonground nutmeg\n1  teaspoonkosher salt\n2 - 3   cupstiny marshmallows\n1/4  cuppecan halves, toasted",
+ "steps":"1. Heat oven to 350 degrees F. \nScrub potatoes and prick with a fork. \nBrush with olive oil. Sprinkle with 1 tablespoon salt. \nPlace potatoes in a 15x10x1-inch baking pan.\n Roast, uncovered, for 30 to 40 minutes or until soft.\n Cool until easy to handle.\n2. In a small saucepan combine butter and whipping cream; \ncook over medium heat until mixture comes to a simmer. \nFold into the sweet potatoes along with the maple syrup\n, nutmeg and remaining 1 teaspoon salt. \nTransfer to a 2-quart baking dish.\n3. Preheat oven to 350 degrees F. \nBake chilled casserole, covered, \nfor 55 minutes, stirring once. \nIncrease oven temperature to 450 degrees F. \nUncover and sprinkle marshmallows on potatoes. \nBake, uncovered, 12 to 15 minutes \nor until marshmallows are golden brown. \nSprinkle with toasted pecans. Serve immediately. \nMakes 8 (1/2-cup) servings plus leftovers"
+ }
+ ]
+ }
+ ]
+ }
+ ]
+ },
+ "users":{
+ "basicinfo":[
+ {
+  "name":"Dad",
+  "work":"xxx-xxx-xxxx",
+  "cell":"xxx-xxx-xxxx",
+  "email":"xxx@yy.com"
+  
+ },
+ {
+   "name":"Mom",
+   "work":"xxx-xxx-xxxx",
+   "cell":"xxx-xxx-xxxx",
+   "email":"yyy@xx.com"
+ },
+ {
+     "name":"Jack",
+     "work":" ",
+     "cell":"xxx-xxx-xxxx",
+     "email":"xxxx@uic.edu"
+ },
+  {
+     "name":"Annie",
+     "work":" ",
+     "cell":"xxx-xxx-xxxx",
+     "email":"AAAAA@uic.edu"
+ },
+  {
+     "name":" ",
+     "work":" ",
+     "cell":" ",
+     "email":" "
+ },
+ {
+     "name":" ",
+     "work":" ",
+     "cell":" ",
+     "email":" "
+ }
+ ],
+ "doctor":[
+  {
+    "doctor1":"Smith",
+    "doctor2":"Harrison",
+    "phone1":"555-555-5555",
+    "phone2":"333-333-3333"
+         
+  },
+  {
+    "doctor1":"Curry",
+    "doctor2":"Rose",
+    "phone1":"222-222-2222",
+    "phone2":"444-444-4444"
+  },
+    {
+    "doctor1":"Smith",
+    "doctor2":"Curry",
+    "phone1":"555-555-5555",
+    "phone2":"222-222-2222"
+  },
+    {
+    "doctor1":"Harrison",
+    "doctor2":"Rose",
+    "phone1":"333-333-3333",
+    "phone2":"444-444-4444"
+  },
+    {
+    "doctor1":"",
+    "doctor2":"",
+    "phone1":"",
+    "phone2":""
+  },
+     {
+    "doctor1":"",
+    "doctor2":"",
+    "phone1":"",
+    "phone2":""
+  }
+ ],
+ "health":[
+ {
+  "alleriges":"Egg ",
+  "medication":"None ",
+  "CHP":"High-blood pressure "
+ },
+  {
+  "alleriges":"Milk ",
+  "medication":"None ",
+  "CHP":"None "
+ },
+  {
+  "alleriges":"None ",
+  "medication":"None ",
+  "CHP":"None "
+ },
+  {
+  "alleriges":"None ",
+  "medication":"None ",
+  "CHP":"None "
+ },
+  {
+  "alleriges":" ",
+  "medication":" ",
+  "CHP":" "
+ },
+  {
+  "alleriges":" ",
+  "medication":" ",
+  "CHP":" "
+ }
+ ],
+ "insurance":[
+ {
+  "name":"blue cross ",
+  "phone":"666-666-6666 "
+ },
+  {
+  "name":"blue cross ",
+  "phone":"666-666-6666 "
+ },
+  {
+  "name":"blue cross ",
+  "phone":"666-666-6666 "
+ },
+  {
+  "name":"blue cross ",
+  "phone":"666-666-666 "
+ },
+  {
+  "name":" ",
+  "phone":" "
+ },
+  {
+  "name":" ",
+  "phone":" "
+ }
+ ]
+ }
+
+
+}
+
