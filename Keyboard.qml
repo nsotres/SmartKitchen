@@ -1,13 +1,17 @@
+/*
+    QWERTY Keyboard
+    Keyboard.qml
+    Author: Nestor Sotres
+    Date: 4/9/13
+
+    Functionality:
+    QWERTY keyboard implementation
+*/
+
 import QtQuick 2.0
 import "js/QwertyControl.js" as QControl
 
-/* QWERTY Keyboard
-*   by: Felix Sotres
-*   date: 4/9/13
-*
-*   Functionality:
-*       - qwerty keyboard implementation
-*/
+
 
 //main window
 
@@ -15,12 +19,13 @@ import "js/QwertyControl.js" as QControl
 Rectangle{
     id: mainQwertyPanel
     property FamilyMessage parenting
+    //size of the qwerty keyboard can be set by the setter functions in QwertyControl.js
     width: QControl.getX()
     height: QControl.getY()
     border.width: 5
     border.color: QControl.getBackColor()
     color: QControl.getBackColor()
-
+    //dummy values
     x: 300
     y: 200
     z: 101
@@ -35,7 +40,7 @@ Rectangle{
             id: menuBarInput
             color: "white"
             border.color: "lightslategray"
-            //with of input should be the same as keyboard
+            //width of input should be the same as keyboard
             width: QControl.getX()
             height: QControl.getInputBoxY()
             //input for user
@@ -98,10 +103,6 @@ Rectangle{
                     onPressed: {
                         keyQUp.color= QControl.getPressedColor();
                         QControl.row1("Q");}
-                    /*onClicked: {
-                        //Calls QwertyControl function to take Input
-                        QControl.row1("Q")
-                    }*/
                     onReleased: {keyQUp.color= QControl.getButtonColor();}
                 }
             }

@@ -78,6 +78,7 @@ var ScreenSvr = {
 
 //visible
 function getMainVis(){
+    console.log("inside getMainVis()********")
     return ScreenSvr.mainVis;
 }
 function getOv1Vis(){

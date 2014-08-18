@@ -1,17 +1,27 @@
 /*
-  Author: Felix Sotres
+  Music Player Panel (large view)
+  MusicPlayer.qml
+  Author: Nestor Sotres
+  Date: 4/9/13
+
+  This panel would normally link to the individual users's Pandora account to play music.
+  Note:
+  * Web content does not work due to some bugs in QtWebKit 3.0
+  * I have already discussed this with the Professor and he said
+  * it was fine. Please refer to Lore if need be.
+  * Instead, the intended behavior will be simulated. This panel
+  * will display an image of the Pandora UI and play a music file
+  * when the play button (image) is clicked/touched.
+
 */
 
 import QtQuick 2.0
 import QtMultimedia 5.0
 //import QtWebKit 3.0
 
-/*Note:
-  * Web content does not work due to some bugs in QtWebKit 3.0
-  * I have already discussed this with the Professor and he said
-  * it was fine. Please refer to Lore if need be.
-  */
-/*Rectangle {
+
+/* Code that was not supported by Qt at the time of development due to bugs. See note at top of file.
+Rectangle {
     width: 1230;
     height: 656
     color: "violet"
