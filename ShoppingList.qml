@@ -1,13 +1,18 @@
-import QtQuick 2.0
-import "shoppingListController.js" as ShoppCont
-import "QwertyControl.js" as QControl
-/*  Shopping List Panel
-*   by: Felix Sotres
-*   date: 4/22/13
-*
-*   Functionality:
-*       - shopping list panel
+/*
+    Shopping List Panel
+    ShoppingList.qml
+    Author: Nestor Sotres
+    Date: 4/22/13
+
+    Functionality:
+    Shopping list panel GUI. Displays GUI for user to input and edit a shopping list.
+    User will be displayed a qwerty keyboard for entering list.
 */
+
+import QtQuick 2.0
+import "js/shoppingListController.js" as ShoppCont
+import "js/QwertyControl.js" as QControl
+
 
 //screen size container
 

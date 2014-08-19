@@ -1,5 +1,18 @@
 /*
-  Author: Mingwei Li
+    Main Panel
+    MainPanel.qml
+    Author: Nestor Sotres
+    Date: 4/22/13
+
+    Functionality:
+    Initial screen of the application. Displays pictures (with ability to connect to Flckr), links to medical
+    records panel, displays weather, shows contents of the fridge, and has a main "Start" button to begin the
+    rest of the features in the app.
+    * Original author "Mingwei L." was added by error. This file along with ScreenSaverController.js
+    * were created by Nestor Sotres. You can see this in line 49 "id: screenSaverFelix" which is in the initial
+    * upload of the files. Felix is my nickname that I use.
+    * Mingwei L. initially added this to the finalized copy of the project to hand in for completion.
+    * Robert F. implimented the connection to Flickr in order to upload additional pictures.
 */
 
 import QtQuick 2.0

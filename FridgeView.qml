@@ -1,3 +1,13 @@
+/*
+    Fridge View
+    FridgeView.qml
+    Author: Nestor Sotres
+    Date: 4/9/13
+
+    Functionality:
+    GUI displaying contents of fridge, items available, and make requests
+*/
+
 import QtQuick 2.0
 import "js/fridgeView.js" as Fridge
 //import "QwertyControl.js" as Keys
@@ -318,7 +328,7 @@ Rectangle {
             }
         }
 
-        /*
+        /*Depricated
         Rectangle {
             id: rectangle4
             x: 515

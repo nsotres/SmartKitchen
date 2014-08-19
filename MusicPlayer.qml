@@ -4,6 +4,7 @@
   Author: Nestor Sotres
   Date: 4/9/13
 
+  Functionality:
   This panel would normally link to the individual users's Pandora account to play music.
   Note:
   * Web content does not work due to some bugs in QtWebKit 3.0

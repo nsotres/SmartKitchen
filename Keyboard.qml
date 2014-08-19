@@ -5,7 +5,7 @@
     Date: 4/9/13
 
     Functionality:
-    QWERTY keyboard implementation
+    QWERTY keyboard GUI implementation
 */
 
 import QtQuick 2.0

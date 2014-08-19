@@ -1,3 +1,13 @@
+/*
+    Fridge View
+    fridgeView.js
+    Author: Nestor Sotres
+    Date: 4/9/13
+
+    Functionality:
+    Handles some of the GUI display settings
+*/
+
 var add = 0
 var headerColor = "#A5E789"
 var subHeaderColor = "#D2F4CE"

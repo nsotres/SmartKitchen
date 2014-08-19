@@ -1,3 +1,12 @@
+/*
+    Screen Saver Controller
+    ScreenSaverController.js
+    Author: Nestor Sotres
+    Date: 4/22/13
+
+    Functionality:
+    Handles back end processing of the screen saver, data handling, and GUI updates.
+*/
 
 /** BETA FINAL **/
 
@@ -75,10 +84,12 @@ var ScreenSvr = {
     imageCtr3: 0
 
 }
+/*
+  Get Methods
+*/
 
 //visible
 function getMainVis(){
-    console.log("inside getMainVis()********")
     return ScreenSvr.mainVis;
 }
 function getOv1Vis(){

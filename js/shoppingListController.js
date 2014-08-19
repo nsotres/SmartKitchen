@@ -1,3 +1,12 @@
+/*
+    Shopping List Controller
+    shoppingListController.js
+    Author: Nestor Sotres
+    Date: 4/22/13
+
+    Functionality:
+    Handles back end processing of list, data handling, and GUI updates.
+*/
 
 var ShoppingList = {
 

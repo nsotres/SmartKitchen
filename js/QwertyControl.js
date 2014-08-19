@@ -1,10 +1,13 @@
 
-/* QWERTY Keyboard
-*   by: Felix Sotres
-*   date: 4/9/13
-*
-*   Functionality:
-*       - qwerty keyboard implementation
+/*
+    QWERTY Keyboard
+    QwertyControl.js
+    Author: Nestor Sotres
+    Date: 4/9/13
+
+    Functionality:
+    This is a simple qwerty keyboard control implementation. It is able to handle Spanish characters.
+    The setter and getter methods hold the different settings for the keyboard.
 */
 
 //object holding qwerty string and default values
@@ -70,6 +73,10 @@ var qwerty = {
     //onPressed button color
     pressedColor: "lightyellow"
 }
+
+/*
+  Get Methods
+*/
 
 //returns String of value entered by user
 function getEntry(){
@@ -149,6 +156,10 @@ function getPressedColor(){
 function getSpanishMode(){
     return qwerty.spanishMode;
 }
+
+/*
+  Set Methods
+*/
 
 function setX(inX){
     qwerty.sizeX = inX;
@@ -484,7 +495,7 @@ function updateKeySymbol(symbolBool){
     }
 }
 
-//reset symbol variaables
+//reset symbol variables
 function resetSymbol(){
     //reset color
     keyNumbers1.color= getButtonColor();
@@ -492,6 +503,10 @@ function resetSymbol(){
     qwerty.symbol = false;
     qwerty.symbolCnt = 0;
 }
+
+/*
+  Update keyboard input box (shown to user)
+*/
 
 //row1 upper/lower case
 function row1(inputR1){
