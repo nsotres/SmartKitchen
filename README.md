@@ -30,7 +30,7 @@ These are the files I created in the project along with a brief description of t
 <dt>MusicPlayer_side.qml</dt><dd>- This panel would normally link to the individual users's Pandora account to play music. This panel is is the smaller version of MusiPlayer.qml in case a user wants to view</dd>
 <dt>ShoppingList.qml</dt><dd>- Shopping list panel GUI. Displays GUI for user to input and edit a shopping list. User will be displayed a qwerty keyboard for entering list.</dd>
 <dt>shoppingListController.js</dt><dd>- Handles back end processing of list, data handling, and GUI updates.</dd>
-<dl>
+</dl>
 
 
 Message
